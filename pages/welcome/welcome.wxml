@@ -1,0 +1,8 @@
+<!--wxml是编写小程序的骨架-->
+<view>
+  <image></image>
+  <text></text>
+  <view>
+    <text>hello</text>  
+  </view>
+</view>
