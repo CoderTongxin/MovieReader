@@ -1,0 +1,9 @@
+ image {
+   /*px是物理分辨率，pt为逻辑分辨率，在ip6下 1px = 1rpx = 0.5pt,rpx是自适应的 */
+   width: 200rpx;
+   height: 200rpx;
+   border-radius: 50
+ }
+ text {
+   display: block
+ }
