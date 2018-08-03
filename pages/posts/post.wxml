@@ -1,7 +1,7 @@
 <view class='container'>
-<swiper>
-<swiper-item>1</swiper-item>
-<swiper-item>2</swiper-item>
-<swiper-item>3</swiper-item>
+<swiper indicator-dots='true' autoplay='true' interval='5000'>
+<swiper-item><image src='/images/1.jpg'></image></swiper-item>
+<swiper-item><image src='/images/2.jpg'></image></swiper-item>
+<swiper-item><image src='/images/3.jpg'></image></swiper-item>
 </swiper>
 </view>  
