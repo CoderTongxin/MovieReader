@@ -1,8 +1,8 @@
 <!--wxml是编写小程序的骨架-->
 <view class='container'>
   <image class='user-avatar' src='https://vignette.wikia.nocookie.net/disney/images/4/47/Coco-dante4.png/revision/latest?cb=20180123072914'></image>
-  <text class='greeting'>Hello panda</text>
+  <text class='greeting'>吴宣仪数据中心</text>
   <view class='title-wrapper'>
-    <text class='title'>开启你的旅程</text>  
+    <text class='title'>冲鸭</text>  
   </view>
 </view>  
