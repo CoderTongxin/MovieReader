@@ -1,7 +1,16 @@
 <view class='container'>
 <swiper indicator-dots='true' autoplay='true' interval='5000'>
 <swiper-item><image src='/images/1.jpg'></image></swiper-item>
-<swiper-item><image src='/images/2.jpg'></image></swiper-item>
-<swiper-item><image src='/images/3.jpg'></image></swiper-item>
+<swiper-item><image src='/images/9.jpg'></image></swiper-item>
+<swiper-item><image src='/images/8.jpg'></image></swiper-item>
 </swiper>
+<view class='post-container'>
+ <view class='post-author-date'>
+   <image src='/images/2.jpg'></image>
+   <text>AUG 03 2018</text>
+ </view>
+  <text>小选冲鸭</text>
+  <image src='/images/3.jpg'></image>
+  <text>吴宣仪吴宣仪吴宣仪我爱你</text>
+</view>
 </view>  
