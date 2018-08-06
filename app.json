@@ -16,15 +16,23 @@
       "list": [
         {
           "pagePath": "pages/posts/post",
-          "text": "安利"
+          "text": "安利",
+          "iconPath": "images/icons/heart.png",
+          "selectedIconPath": "images/icons/heart.png"
+
         },
         {
           "pagePath": "pages/vote/vote",
-          "text": "打榜"
+          "text": "打榜",
+          "iconPath": "images/icons/1.png",
+          "selectedIconPath": "images/icons/1.png"
         },
           {
             "pagePath": "pages/config/config",
-            "text": "我的"
+            "text": "我的",
+            "iconPath": "images/icons/2.png",
+            "selectedIconPath": "images/icons/2.png"
+           
           }
       ]
     },
