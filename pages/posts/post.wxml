@@ -6,11 +6,11 @@
 </swiper>
 <view class='post-container'>
  <view class='post-author-date'>
-   <image src='/images/2.jpg'></image>
-   <text>AUG 03 2018</text>
+   <image class='post-author' src='/images/2.jpg'></image>
+   <text class='post-date'>AUG 03 2018</text>
  </view>
-  <text>小选冲鸭</text>
-  <image src='/images/3.jpg'></image>
-  <text>吴宣仪吴宣仪吴宣仪我爱你</text>
+  <text class='post-title'>小选冲鸭</text>
+  <image class='post-image' src='/images/3.jpg'></image>
+  <text class='post-content'>吴宣仪吴宣仪吴宣仪我爱你</text>
 </view>
 </view>  

@@ -1,9 +1,36 @@
 {
   "pages": [
     "pages/posts/post",
+    "pages/vote/vote",
+    "pages/config/config",
     "pages/welcome/welcome"
   ],
   "window": {
     "navigationBarBackgroundColor": "#b3d4db"
-    }
+    },
+  "tabBar": {
+      "color": "#999999",
+      "selectedColor": "#13b2ae",
+      "borderStyle":"white",
+      "backgroundColor": "#fff",
+      "list": [
+        {
+          "pagePath": "pages/posts/post",
+          "text": "安利"
+        },
+        {
+          "pagePath": "pages/vote/vote",
+          "text": "打榜"
+        },
+          {
+            "pagePath": "pages/config/config",
+            "text": "我的"
+          }
+      ]
+    },
+      "networkTimeout": {
+        "request": 10000,
+        "downloadFile": 10000
+      },
+      "debug": true
 } 
