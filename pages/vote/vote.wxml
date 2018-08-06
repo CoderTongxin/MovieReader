@@ -1,0 +1,5 @@
+<view>
+<text>明星权利榜</text>
+<button class='wepay' bindtap='goBaidu'>点击跳转</button>
+</view>
+
